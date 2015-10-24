@@ -1,5 +1,12 @@
 @echo off
 
+::        o   ^__^
+::         o  (oo)\_______
+::            (__)\       )\/\
+::                ||----w |
+::                ||     ||
+
+
 ::配置目录	
 set hostDir=D:\xampp\apache\conf\extra\project
 set defaultWebpath=D:\web\
